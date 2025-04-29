@@ -1,9 +1,9 @@
 # CC Mini Project
 
-This is my mini project for Cloud Computing — based on the AWS WildRydes tutorial.
+This is our mini project for Cloud Computing 
 
 ## Deployed Tools & Services
-- AWS Amplify
+- EC2
 - Amazon Cognito
 - Amazon DynamoDB
 - AWS Lambda
