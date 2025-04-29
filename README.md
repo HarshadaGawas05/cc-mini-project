@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS Project - Build a Full End-to-End Web Application with 7 Services | Step-by-Step Tutorial
 
 This repo contains the code files used in this [YouTube video](https://youtu.be/K6v6t5z6AsU).
@@ -128,3 +129,6 @@ Here is the code used to test the Lambda function:
 }
 ```
 
+=======
+# cc-mini-project
+>>>>>>> 46723dd9794c358b5eeae610167de3e4bf86f34a
